@@ -1,0 +1,29 @@
+testcases:
+1. malformed requests
+2. sequence/session number usage
+3. shrinking inode entry
+4. initializatin of file system
+5. create the same file twice (with the same path) by the same user or different user
+6. 
+
+Parse:
+1. path: 1) no / at the beginning; 2) 
+2. read / write directory
+
+File system:
+1. when sending back, the logistics(cleartext, encryption, etc) compiled but not tested
+2. double check session/sequence logic
+3. Check sequence in session valid?
+4. error checking, what if an user creates more than one session? Is it valid?
+5. range of variable, which to use? uint32 or unsigned long or other? (where to check for sequence validity)
+6. check if blocks are used up
+7. PASSNAME ALREADY EXIST IN CREATE
+
+AJC Modification on Jason's Code:
+1. Process_create -- last several lines, when creating a new block, should create a array of direntries and set the first as new one instead of one?
+
+Already tested:
+1. testinit: create two-layer of directory, verified that when initialization, blocks are read in correctly, and deleted file should not be read in
+2. test_overflow_dir: create overflow directory entries, delete one and then add new dir
+3. test create: session wrong username, wrong password, username too long;
+    create: wrong username, wrong password, user too long, other user using the session; invalid

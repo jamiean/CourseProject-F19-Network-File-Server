@@ -1,0 +1,1015 @@
+
+/dir/subdir-18 (type d) (inode block 24)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-19 (type d) (inode block 25)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-20 (type d) (inode block 26)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-21 (type d) (inode block 27)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-22 (type d) (inode block 28)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-23 (type d) (inode block 29)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-24 (type d) (inode block 30)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-25 (type d) (inode block 32)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-26 (type d) (inode block 33)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-27 (type d) (inode block 34)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-28 (type d) (inode block 35)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-29 (type d) (inode block 36)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-30 (type d) (inode block 37)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-31 (type d) (inode block 38)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-32 (type d) (inode block 39)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-33 (type d) (inode block 41)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-34 (type d) (inode block 42)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-35 (type d) (inode block 43)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-36 (type d) (inode block 44)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-37 (type d) (inode block 45)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-38 (type d) (inode block 46)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-39 (type d) (inode block 47)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-40 (type d) (inode block 48)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-41 (type d) (inode block 50)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-42 (type d) (inode block 51)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-43 (type d) (inode block 52)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-44 (type d) (inode block 53)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-45 (type d) (inode block 54)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-46 (type d) (inode block 55)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-47 (type d) (inode block 56)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-48 (type d) (inode block 57)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-49 (type d) (inode block 59)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+4040 disk blocks free
+bash-4.2$ ./showfs
+/ (type d) (inode block 0)
+        owner: 
+        size: 1
+        data disk blocks: 2 
+        entry 0: dir, inode block 1
+
+/dir (type d) (inode block 1)
+        owner: user1
+        size: 7
+        data disk blocks: 4 13 22 31 40 49 58 
+        entry 5: subdir-5, inode block 9
+        entry 6: subdir-6, inode block 10
+        entry 7: subdir-7, inode block 11
+        entry 8: subdir-8, inode block 12
+        entry 9: subdir-9, inode block 14
+        entry 10: subdir-10, inode block 15
+        entry 11: subdir-11, inode block 16
+        entry 12: subdir-12, inode block 17
+        entry 13: subdir-13, inode block 18
+        entry 14: subdir-14, inode block 19
+        entry 15: subdir-15, inode block 20
+        entry 16: subdir-16, inode block 21
+        entry 17: subdir-17, inode block 23
+        entry 18: subdir-18, inode block 24
+        entry 19: subdir-19, inode block 25
+        entry 20: subdir-20, inode block 26
+        entry 21: subdir-21, inode block 27
+        entry 22: subdir-22, inode block 28
+        entry 23: subdir-23, inode block 29
+        entry 24: subdir-24, inode block 30
+        entry 25: subdir-25, inode block 32
+        entry 26: subdir-26, inode block 33
+        entry 27: subdir-27, inode block 34
+        entry 28: subdir-28, inode block 35
+        entry 29: subdir-29, inode block 36
+        entry 30: subdir-30, inode block 37
+        entry 31: subdir-31, inode block 38
+        entry 32: subdir-32, inode block 39
+        entry 33: subdir-33, inode block 41
+        entry 34: subdir-34, inode block 42
+        entry 35: subdir-35, inode block 43
+        entry 36: subdir-36, inode block 44
+        entry 37: subdir-37, inode block 45
+        entry 38: subdir-38, inode block 46
+        entry 39: subdir-39, inode block 47
+        entry 40: subdir-40, inode block 48
+        entry 41: subdir-41, inode block 50
+        entry 42: subdir-42, inode block 51
+        entry 43: subdir-43, inode block 52
+        entry 44: subdir-44, inode block 53
+        entry 45: subdir-45, inode block 54
+        entry 46: subdir-46, inode block 55
+        entry 47: subdir-47, inode block 56
+        entry 48: subdir-48, inode block 57
+        entry 49: subdir-49, inode block 59
+
+/dir/subdir-5 (type d) (inode block 9)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-6 (type d) (inode block 10)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-7 (type d) (inode block 11)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-8 (type d) (inode block 12)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-9 (type d) (inode block 14)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-10 (type d) (inode block 15)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-11 (type d) (inode block 16)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-12 (type d) (inode block 17)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-13 (type d) (inode block 18)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-14 (type d) (inode block 19)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-15 (type d) (inode block 20)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-16 (type d) (inode block 21)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-17 (type d) (inode block 23)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-18 (type d) (inode block 24)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-19 (type d) (inode block 25)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-20 (type d) (inode block 26)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-21 (type d) (inode block 27)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-22 (type d) (inode block 28)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-23 (type d) (inode block 29)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-24 (type d) (inode block 30)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-25 (type d) (inode block 32)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-26 (type d) (inode block 33)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-27 (type d) (inode block 34)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-28 (type d) (inode block 35)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-29 (type d) (inode block 36)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-30 (type d) (inode block 37)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-31 (type d) (inode block 38)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-32 (type d) (inode block 39)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-33 (type d) (inode block 41)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-34 (type d) (inode block 42)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-35 (type d) (inode block 43)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-36 (type d) (inode block 44)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-37 (type d) (inode block 45)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-38 (type d) (inode block 46)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-39 (type d) (inode block 47)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-40 (type d) (inode block 48)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-41 (type d) (inode block 50)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-42 (type d) (inode block 51)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-43 (type d) (inode block 52)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-44 (type d) (inode block 53)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-45 (type d) (inode block 54)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-46 (type d) (inode block 55)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-47 (type d) (inode block 56)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-48 (type d) (inode block 57)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-49 (type d) (inode block 59)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+4041 disk blocks free
+bash-4.2$ ./showfs
+/ (type d) (inode block 0)
+        owner: 
+        size: 1
+        data disk blocks: 2 
+        entry 0: dir, inode block 1
+
+/dir (type d) (inode block 1)
+        owner: user1
+        size: 7
+        data disk blocks: 4 13 22 31 40 49 58 
+        entry 6: subdir-6, inode block 10
+        entry 7: subdir-7, inode block 11
+        entry 8: subdir-8, inode block 12
+        entry 9: subdir-9, inode block 14
+        entry 10: subdir-10, inode block 15
+        entry 11: subdir-11, inode block 16
+        entry 12: subdir-12, inode block 17
+        entry 13: subdir-13, inode block 18
+        entry 14: subdir-14, inode block 19
+        entry 15: subdir-15, inode block 20
+        entry 16: subdir-16, inode block 21
+        entry 17: subdir-17, inode block 23
+        entry 18: subdir-18, inode block 24
+        entry 19: subdir-19, inode block 25
+        entry 20: subdir-20, inode block 26
+        entry 21: subdir-21, inode block 27
+        entry 22: subdir-22, inode block 28
+        entry 23: subdir-23, inode block 29
+        entry 24: subdir-24, inode block 30
+        entry 25: subdir-25, inode block 32
+        entry 26: subdir-26, inode block 33
+        entry 27: subdir-27, inode block 34
+        entry 28: subdir-28, inode block 35
+        entry 29: subdir-29, inode block 36
+        entry 30: subdir-30, inode block 37
+        entry 31: subdir-31, inode block 38
+        entry 32: subdir-32, inode block 39
+        entry 33: subdir-33, inode block 41
+        entry 34: subdir-34, inode block 42
+        entry 35: subdir-35, inode block 43
+        entry 36: subdir-36, inode block 44
+        entry 37: subdir-37, inode block 45
+        entry 38: subdir-38, inode block 46
+        entry 39: subdir-39, inode block 47
+        entry 40: subdir-40, inode block 48
+        entry 41: subdir-41, inode block 50
+        entry 42: subdir-42, inode block 51
+        entry 43: subdir-43, inode block 52
+        entry 44: subdir-44, inode block 53
+        entry 45: subdir-45, inode block 54
+        entry 46: subdir-46, inode block 55
+        entry 47: subdir-47, inode block 56
+        entry 48: subdir-48, inode block 57
+        entry 49: subdir-49, inode block 59
+
+/dir/subdir-6 (type d) (inode block 10)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-7 (type d) (inode block 11)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-8 (type d) (inode block 12)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-9 (type d) (inode block 14)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-10 (type d) (inode block 15)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-11 (type d) (inode block 16)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-12 (type d) (inode block 17)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-13 (type d) (inode block 18)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-14 (type d) (inode block 19)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-15 (type d) (inode block 20)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-16 (type d) (inode block 21)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-17 (type d) (inode block 23)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-18 (type d) (inode block 24)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-19 (type d) (inode block 25)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-20 (type d) (inode block 26)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-21 (type d) (inode block 27)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-22 (type d) (inode block 28)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-23 (type d) (inode block 29)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-24 (type d) (inode block 30)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-25 (type d) (inode block 32)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-26 (type d) (inode block 33)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-27 (type d) (inode block 34)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-28 (type d) (inode block 35)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-29 (type d) (inode block 36)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-30 (type d) (inode block 37)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-31 (type d) (inode block 38)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-32 (type d) (inode block 39)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-33 (type d) (inode block 41)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-34 (type d) (inode block 42)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-35 (type d) (inode block 43)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-36 (type d) (inode block 44)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-37 (type d) (inode block 45)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-38 (type d) (inode block 46)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-39 (type d) (inode block 47)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-40 (type d) (inode block 48)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-41 (type d) (inode block 50)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-42 (type d) (inode block 51)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-43 (type d) (inode block 52)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-44 (type d) (inode block 53)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-45 (type d) (inode block 54)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-46 (type d) (inode block 55)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-47 (type d) (inode block 56)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-48 (type d) (inode block 57)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-49 (type d) (inode block 59)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+4042 disk blocks free
+bash-4.2$ ./showfs
+/ (type d) (inode block 0)
+        owner: 
+        size: 1
+        data disk blocks: 2 
+        entry 0: dir, inode block 1
+
+/dir (type d) (inode block 1)
+        owner: user1
+        size: 7
+        data disk blocks: 4 13 22 31 40 49 58 
+        entry 7: subdir-7, inode block 11
+        entry 8: subdir-8, inode block 12
+        entry 9: subdir-9, inode block 14
+        entry 10: subdir-10, inode block 15
+        entry 11: subdir-11, inode block 16
+        entry 12: subdir-12, inode block 17
+        entry 13: subdir-13, inode block 18
+        entry 14: subdir-14, inode block 19
+        entry 15: subdir-15, inode block 20
+        entry 16: subdir-16, inode block 21
+        entry 17: subdir-17, inode block 23
+        entry 18: subdir-18, inode block 24
+        entry 19: subdir-19, inode block 25
+        entry 20: subdir-20, inode block 26
+        entry 21: subdir-21, inode block 27
+        entry 22: subdir-22, inode block 28
+        entry 23: subdir-23, inode block 29
+        entry 24: subdir-24, inode block 30
+        entry 25: subdir-25, inode block 32
+        entry 26: subdir-26, inode block 33
+        entry 27: subdir-27, inode block 34
+        entry 28: subdir-28, inode block 35
+        entry 29: subdir-29, inode block 36
+        entry 30: subdir-30, inode block 37
+        entry 31: subdir-31, inode block 38
+        entry 32: subdir-32, inode block 39
+        entry 33: subdir-33, inode block 41
+        entry 34: subdir-34, inode block 42
+        entry 35: subdir-35, inode block 43
+        entry 36: subdir-36, inode block 44
+        entry 37: subdir-37, inode block 45
+        entry 38: subdir-38, inode block 46
+        entry 39: subdir-39, inode block 47
+        entry 40: subdir-40, inode block 48
+        entry 41: subdir-41, inode block 50
+        entry 42: subdir-42, inode block 51
+        entry 43: subdir-43, inode block 52
+        entry 44: subdir-44, inode block 53
+        entry 45: subdir-45, inode block 54
+        entry 46: subdir-46, inode block 55
+        entry 47: subdir-47, inode block 56
+        entry 48: subdir-48, inode block 57
+        entry 49: subdir-49, inode block 59
+
+/dir/subdir-7 (type d) (inode block 11)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-8 (type d) (inode block 12)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-9 (type d) (inode block 14)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-10 (type d) (inode block 15)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-11 (type d) (inode block 16)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-12 (type d) (inode block 17)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-13 (type d) (inode block 18)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-14 (type d) (inode block 19)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-15 (type d) (inode block 20)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-16 (type d) (inode block 21)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-17 (type d) (inode block 23)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-18 (type d) (inode block 24)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-19 (type d) (inode block 25)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-20 (type d) (inode block 26)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-21 (type d) (inode block 27)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-22 (type d) (inode block 28)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-23 (type d) (inode block 29)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-24 (type d) (inode block 30)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-25 (type d) (inode block 32)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-26 (type d) (inode block 33)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-27 (type d) (inode block 34)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-28 (type d) (inode block 35)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-29 (type d) (inode block 36)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-30 (type d) (inode block 37)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-31 (type d) (inode block 38)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-32 (type d) (inode block 39)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-33 (type d) (inode block 41)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-34 (type d) (inode block 42)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-35 (type d) (inode block 43)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-36 (type d) (inode block 44)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-37 (type d) (inode block 45)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-38 (type d) (inode block 46)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-39 (type d) (inode block 47)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-40 (type d) (inode block 48)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-41 (type d) (inode block 50)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-42 (type d) (inode block 51)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-43 (type d) (inode block 52)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-44 (type d) (inode block 53)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-45 (type d) (inode block 54)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-46 (type d) (inode block 55)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-47 (type d) (inode block 56)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-48 (type d) (inode block 57)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+/dir/subdir-49 (type d) (inode block 59)
+        owner: user1
+        size: 0
+        data disk blocks: 
+
+4043 disk blocks free
+bash-4.2$ ./showfs
+/ (type d) (inode block 0)
+        owner: 
+        size: 1
+        data disk blocks: 2 
+        entry 0: dir, inode block 1
+
+/dir (type d) (inode block 1)
+        owner: user1
+        size: 6
+block 13 already used
+bash-4.2$ ./showfs
+/ (type d) (inode block 0)
+        owner: 
+        size: 1
+        data disk blocks: 2 
+        entry 0: dir, inode block 1
+
+/dir (type d) (inode block 1)
+        owner: user1
+        size: 6
+block 13 already used
